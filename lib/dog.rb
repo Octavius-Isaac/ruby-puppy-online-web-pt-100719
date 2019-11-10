@@ -8,7 +8,9 @@ class Dog
     @name = dog_name 
   end 
   
-  def 
+  def self.all
+    @@all
+  end 
   
   
 end 
