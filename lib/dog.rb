@@ -1,6 +1,9 @@
 class Dog 
   
-  def initialize 
+@@all = [] 
+
+  def initialize(dog_name)
+  end 
   
   
 end 
